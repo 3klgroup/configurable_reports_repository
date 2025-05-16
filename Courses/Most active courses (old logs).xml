@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2025051300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Most active courses (old logs)]]></name>
+<summary><![CDATA[<pre class="sql"></pre>]]></summary>
+<summaryformat><![CDATA[0]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YTozOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czoxOTE6IlNFTEVDVCtDT1VOVCUyOGwuaWQlMjkraGl0cyUyQytsLmNvdXJzZStjb3Vyc2VJZCUyQytjLmZ1bGxuYW1lK2NvdXJzZW5hbWUlMEQlMEFGUk9NK3ByZWZpeF9sb2crbCtJTk5FUitKT0lOK3ByZWZpeF9jb3Vyc2UrYytPTitsLmNvdXJzZSslM0QrYy5pZCUwRCUwQUdST1VQK0JZK2NvdXJzZUlkJTBEJTBBT1JERVIrQlkraGl0cytERVNDIjtzOjg6ImNvdXJzZWlkIjtzOjE6IjEiO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX1zOjQ6InBsb3QiO2E6MTp7czo4OiJlbGVtZW50cyI7YTowOnt9fXM6NzoiZmlsdGVycyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjA6e319fQ==]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<displaytotalrecords><![CDATA[1]]></displaytotalrecords>
+<displayprintbutton><![CDATA[1]]></displayprintbutton>
+</report>
